@@ -12,5 +12,5 @@ arcade = "==2.6.16"
 pyinstaller = "==5.7.0"
 
 [requires]
-python_version = "3.10.8"
-python_full_version = "3.10.0"
+python_version = "3.10"
+python_full_version = "3.10"
