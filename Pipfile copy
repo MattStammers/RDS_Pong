@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+arcade = "==2.6.16"
+pyinstaller = "==5.7.0"
+
+[dev-packages]
+arcade = "==2.6.16"
+pyinstaller = "==5.7.0"
+
+[requires]
+python_version = "3.10"
+python_full_version = "3.10"
